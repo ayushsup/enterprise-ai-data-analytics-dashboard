@@ -2,7 +2,7 @@
 
 _A comprehensive analytics platform for modern enterprises, featuring advanced data visualization, predictive modeling, statistical analysis, and AI-powered insights._
 
-![Enterprise Dashboard Screenshot](assets/dashboard_preview.png)
+![Enterprise Dashboard Screenshot](dashboard.png)
 
 ## 🚀 Overview
 
